@@ -1,0 +1,140 @@
+\t (00:00:02) allegro 17.4 S037 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Sep 19 20:32:57 2024
+\t (00:00:02)         Host=COMPUTER User=TZH Pid=17624 CPUs=12
+\t (00:00:02) CmdLine= D:\Cadence\Cadence\SPB_17.4\tools\bin\allegro.exe F:\OneDrive\Projects\PCB\f1c200s\allegro\f1c200s.brd
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+   (00:00:02) *Error* load: can't access file - "x_silk_in_out.il"
+   (00:00:02) function x_get_sym_bbox redefined
+   (00:00:02) function loginshow redefined
+   (00:00:02) function TimeOrder redefined
+   (00:00:02) function create_loginshow_form_file redefined
+   (00:00:02) function getskillpasslist redefined
+   (00:00:02) function getskilllist redefined
+   (00:00:02) function loginshow_form_action redefined
+   (00:00:02) function strlenlessp redefined
+   (00:00:02) function CaptureImage redefined
+   (00:00:02) function Save_Database redefined
+   (00:00:02) function GotMonthTable redefined
+   (00:00:02) function Property_Viewer redefined
+   (00:00:02) function SkillLoader redefined
+   (00:00:02) function tait_logoThumbnail redefined
+   (00:00:02) *Error* load: can't access file - "val_c"
+   (00:00:02) *Error* load: can't access file - "val_o"
+   (00:00:02) *Error* load: can't access file - "xgird.il"
+   (00:00:02) function jfhGetRefIDComDir redefined
+   (00:00:02) function jfhRotateTopRef redefined
+   (00:00:02) function jfhRotateBtmRef redefined
+   (00:00:02) function jfhRotateTopRefIr redefined
+   (00:00:02) function jfhRotateBtmRefIr redefined
+   (00:00:02) function ref redefined
+   (00:00:02) function jfhrotaterefIr redefined
+   (00:00:02) function check_text_overlap redefined
+   (00:00:02) function biuld_form redefined
+   (00:00:02) function pform_Action redefined
+   (00:00:02) function refdes_on_pad redefined
+   (00:00:02) function barcode_overlap_atom redefined
+   (00:00:02) function refdes_overlap_component redefined
+   (00:00:02) function text_overlap_text redefined
+   (00:00:02) function text_on_pad redefined
+   (00:00:02) function text_on_testpoints redefined
+   (00:00:02) function get_bar_code_box redefined
+   (00:00:02) function getbox redefined
+   (00:00:02) function text_on_text redefined
+   (00:00:02) function unselect_object redefined
+   (00:00:02) function turn_on_layer redefined
+   (00:00:02) function init_loc_text redefined
+   (00:00:02) function add_loc_text redefined
+   (00:00:02) function location_text redefined
+   (00:00:02) function location_prv redefined
+   (00:00:02) function x_dump_lib redefined
+   (00:00:02) function x_ro_sel_refdes redefined
+   (00:00:02) function x_move_sel_refdes redefined
+   (00:00:02) function x_get_sym_bbox redefined
+   (00:00:02) function x_align_symbol redefined
+   (00:00:02) function x_sym_align_left redefined
+   (00:00:02) function x_sym_align_right redefined
+   (00:00:02) function x_sym_align_up redefined
+   (00:00:02) function x_sym_align_down redefined
+   (00:00:02) function x_sym_align_hcenter redefined
+   (00:00:02) function x_sym_align_vcenter redefined
+   (00:00:02) function x_sym_align_undo redefined
+   (00:00:02) function x_get_sym_bbox redefined
+   (00:00:02) function x_split_shape redefined
+   (00:00:02) *Error* load: can't access file - "D:/skill/ch_ref.il"
+   (00:00:02) *Error* load: can't access file - "D:/skill/ch_text_overlap.il"
+   (00:00:02) *Error* load: can't access file - "D:/skill/change_net_onvias.il"
+   (00:00:02) *Error* load: can't access file - "D:/skill/check_dir.il"
+   (00:00:02) *Error* load: can't access file - "D:/skill/conv.il"
+   (00:00:02) *Error* load: can't access file - "D:/skill/dumplib.il"
+   (00:00:02) *Error* load: can't access file - "D:/skill/orphannet.il"
+   (00:00:02) *Error* load: can't access file - "D:/skill/quick_view.il"
+   (00:00:02) *Error* load: can't access file - "D:/skill/x_mc_ro_text.il"
+   (00:00:02) *Error* load: can't access file - "D:/skill/replace_via.il"
+   (00:00:02) *Error* load: can't access file - "D:/skill/scalpel.il"
+   (00:00:02) *Error* load: can't access file - "D:/skill/x_align_symbol.il"
+   (00:00:02) *Error* load: can't access file - "D:/skill/x_cline2shape.il"
+   (00:00:02) *Error* load: can't access file - "D:/skill/x_split_shape.il"
+   (00:00:02) *Error* load: can't access file - "D:/skill/gridsa.il"
+   (00:00:02) *Error* load: can't access file - "D:/skill/fform.il"
+   (00:00:02) *Error* load: can't access file - "D:/skill/x_check_line90.il"
+   (00:00:02) *Error* load: can't access file - "D:/skill/x_change_lw.il"
+   (00:00:02) *Error* load: can't access file - "C:/SPB_Data/pcbenv/HZ$D.172.443/Jun_SkillLoad.il"
+   (00:00:02) *Error* eval: undefined function - Jun_SkillLoad
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: F:/OneDrive/Projects/PCB/f1c200s/allegro/f1c200s.brd
+\i (00:00:03) trapsize 49916
+\i (00:00:03) trapsize 51252
+\i (00:00:03) trapsize 46390
+\i (00:00:03) trapsize 46390
+\t (00:00:03) > Sending response DoneOpenBoard
+\i (00:00:03) strokefile allegro 
+\i (00:00:03) placementedit 
+\i (00:00:10) artwork 
+\i (00:00:11) setwindow form.film_control
+\i (00:00:11) FORM film_control filmtree  SILKSCREEN_TOP 
+\i (00:00:13) FORM film_control filmtree popup 'Save All Checked' SILKSCREEN_TOP 
+\i (00:00:15) FORM film_control filmtree  01_TOP 
+\i (00:00:15) FORM film_control filmtree 'MULTISEL YES' 01_TOP 
+\i (00:00:15) FORM film_control filmtree  02_GND 
+\i (00:00:16) FORM film_control filmtree  03_POWER 
+\i (00:00:16) FORM film_control filmtree  02_GND 
+\i (00:00:16) FORM film_control filmtree 'MULTISEL YES' 02_GND 
+\i (00:00:17) FORM film_control filmtree  03_POWER 
+\i (00:00:17) FORM film_control filmtree 'MULTISEL YES' 03_POWER 
+\i (00:00:18) FORM film_control filmtree  04_BOTTOM 
+\i (00:00:18) FORM film_control filmtree 'MULTISEL YES' 04_BOTTOM 
+\i (00:00:18) FORM film_control filmtree  ASM_BOTTOM 
+\i (00:00:18) FORM film_control filmtree 'MULTISEL YES' ASM_BOTTOM 
+\i (00:00:19) FORM film_control filmtree  ASM_TOP 
+\i (00:00:19) FORM film_control filmtree 'MULTISEL YES' ASM_TOP 
+\i (00:00:19) FORM film_control filmtree  DRILL 
+\i (00:00:19) FORM film_control filmtree 'MULTISEL YES' DRILL 
+\i (00:00:20) FORM film_control filmtree  PASTEMASK_BOTTOM 
+\i (00:00:20) FORM film_control filmtree 'MULTISEL YES' PASTEMASK_BOTTOM 
+\i (00:00:20) FORM film_control filmtree  PASTEMASK_TOP 
+\i (00:00:21) FORM film_control filmtree 'MULTISEL YES' PASTEMASK_TOP 
+\i (00:00:21) FORM film_control filmtree  SILKSCREEN_BOTTOM 
+\i (00:00:21) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_BOTTOM 
+\i (00:00:21) FORM film_control filmtree  SILKSCREEN_TOP 
+\i (00:00:22) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_TOP 
+\i (00:00:22) FORM film_control filmtree  SOLDMASK_BOTTOM 
+\i (00:00:22) FORM film_control filmtree 'MULTISEL YES' SOLDMASK_BOTTOM 
+\i (00:00:22) FORM film_control filmtree  SOLDMASK_TOP 
+\i (00:00:23) FORM film_control filmtree 'MULTISEL YES' SOLDMASK_TOP 
+\i (00:00:23) FORM film_control filmtree  SILKSCREEN_BOTTOM 
+\i (00:00:24) FORM film_control filmtree popup 'Save All Checked' SILKSCREEN_BOTTOM 
+\i (00:00:26) FORM film_control ok  
+\i (00:00:26) setwindow pcb
+\i (00:00:26) placementedit 
+\t (00:10:03) Performing autosave...
+\t (00:10:03) Autosave successful
+\i (03:14:40) xname_flush 
+\i (03:33:08) xname_flush 
+\i (03:33:09) xname_flush '!' 
+\i (03:43:52) xname_flush 
+\i (03:43:53) xname_flush '!' 
+\i (04:05:34) exit 
+\e (04:05:34) Do you want to save the changes you made to f1c200s.brd?
+\i (04:05:35) fillin yes 
+\t (04:05:37)     Journal end - Fri Sep 20 00:38:32 2024
