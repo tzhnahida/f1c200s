@@ -1,12 +1,12 @@
 # F1C200S Core Board
 
 ## Table of Contents
-- [1. Power / UART](./sch_png/f1c200s_sch_2)
-- [2. Audio / DRAM / Power / LCD IO](./sch_png/f1c200s_sch_3)
-- [3. SPI / USART / SDIO / SOC / USB / REST](./sch_png/f1c200s_sch_4)
-- [4. LCD PHY](./sch_png/f1c200s_sch_5)
-- [5. WiFi ESP32](./sch_png/f1c200s_sch_6)
-- [6. SD / LCD / KEY / USB A / SPI1 / UAET1](./sch_png/f1c200s_sch_7)
+- [1. Power / UART](./sch_png/f1c200s_sch_2.png)
+- [2. Audio / DRAM / Power / LCD IO](./sch_png/f1c200s_sch_3.png)
+- [3. SPI / USART / SDIO / SOC / USB / REST](./sch_png/f1c200s_sch_4.png)
+- [4. LCD PHY](./sch_png/f1c200s_sch_5.png)
+- [5. WiFi ESP32](./sch_png/f1c200s_sch_6.png)
+- [6. SD / LCD / KEY / USB A / SPI1 / UAET1](./sch_png/f1c200s_sch_7.png)
 
 ## Revision History
 | Version | Date       | Change Description               |
