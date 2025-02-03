@@ -294,7 +294,7 @@
       (Path "Layout")
       (Path "Outputs")
       (Path "PSpice Resources")
-      (Select "Design Resources" ".\f1c200s.dsn" "F1C200S" "0.Cover Page"))
+      (Select "Design Resources" ".\f1c200s.dsn" "F1C200S"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
