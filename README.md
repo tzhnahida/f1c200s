@@ -15,14 +15,6 @@ For more detailed information, refer to the individual sections above related to
 7. **SPI**: 1 x SPI
 8. **LCD Support**: 1 x RGB LCD 40P
 
-## Power Summary
-| Power Supply | Channel | Supply Limit | Power Name | Default Voltage |
-| ------------ | ------- | ------------ | ---------- | ---------------- |
-| VBUS         | BUCK    | 3.0A         | VCC_3V3    | 3.3V             |
-| VBUS         | BUCK    | 3.0A         | VCC_2V5    | 2.5V             |
-| VBUS         | BUCK    | 3.0A         | VCC_1V2    | 1.2V             |
-| VBUS         | LDO     | 0.3A         | VCC_2V8    | 2.8V             |
-
 ## Table of Contents
 - [1. Power / UART](./sch_png/f1c200s_sch_2.png)
 - [2. Audio / DRAM / Power / LCD IO](./sch_png/f1c200s_sch_3.png)
@@ -30,6 +22,14 @@ For more detailed information, refer to the individual sections above related to
 - [4. LCD PHY](./sch_png/f1c200s_sch_5.png)
 - [5. WiFi ESP32](./sch_png/f1c200s_sch_6.png)
 - [6. SD / LCD / KEY / USB A / SPI1 / UAET1](./sch_png/f1c200s_sch_7.png)
+
+## Power Summary
+| Power Supply | Channel | Supply Limit | Power Name | Default Voltage |
+| ------------ | ------- | ------------ | ---------- | ---------------- |
+| VBUS         | BUCK    | 3.0A         | VCC_3V3    | 3.3V             |
+| VBUS         | BUCK    | 3.0A         | VCC_2V5    | 2.5V             |
+| VBUS         | BUCK    | 3.0A         | VCC_1V2    | 1.2V             |
+| VBUS         | LDO     | 0.3A         | VCC_2V8    | 2.8V             |
 
 ## Revision History
 | Version | Date       | Change Description               |
