@@ -3,7 +3,7 @@
 ## Hardware Overview
 This F1C200S Core Board is designed for various embedded applications and includes support for WiFi, USB 2.0, SPI, UART, and RGB LCD display.
 
-For more detailed information, refer to the individual sections above related to the hardware setup and configuration.
+For more detailed information, refer to the individual sections below related to the hardware setup and configuration.
 
 ## Core Features
 1. **PMIC**: EA3036
