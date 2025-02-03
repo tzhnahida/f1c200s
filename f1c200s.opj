@@ -288,31 +288,39 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" "f:\onedrive\projects\pcb\f1c200s\f1c200s.dsn")
-      (Path "Design Resources" "f:\onedrive\projects\pcb\f1c200s\f1c200s.dsn"
-         "F1C200S")
+      (Path "Design Resources" ".\f1c200s.dsn")
+      (Path "Design Resources" ".\f1c200s.dsn" "F1C200S")
       (Path "Design Resources" "Library")
       (Path "Layout")
       (Path "Outputs")
       (Path "PSpice Resources")
-      (Select "Design Resources" "f:\onedrive\projects\pcb\f1c200s\f1c200s.dsn"
-         "F1C200S" "6.SD/LCD/KEY/USB A/SPI1/UAET1"))
+      (Select "Design Resources" ".\f1c200s.dsn" "F1C200S" "0.Cover Page"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 288 0 623"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 887"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1358 28 669")
-        (Scroll "-76 0")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1555 28 909")
+        (Scroll "-168 -7")
+        (Zoom "101")
         (Occurrence "/"))
       (Path "F:\ONEDRIVE\PROJECTS\PCB\F1C200S\F1C200S.DSN")
       (Schematic "F1C200S")
-      (Page "6.SD/LCD/KEY/USB A/SPI1/UAET1")))
+      (Page "6.SD/LCD/KEY/USB A/SPI1/UAET1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1555 28 909")
+        (Scroll "-168 -7")
+        (Zoom "101")
+        (Occurrence "/"))
+      (Path "F:\ONEDRIVE\PROJECTS\PCB\F1C200S\F1C200S.DSN")
+      (Schematic "F1C200S")
+      (Page "0.Cover Page")))
   (LastUsedLibraryBrowseDirectory
      "D:\Cadence\Cadence\SPB_17.4\tools\capture\library")
   (ISPCBBASICLICENSE "false"))
